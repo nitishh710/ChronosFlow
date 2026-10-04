@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -Wall -Wextra -pthread -Wl,--dependency-file=CMakeFiles/producer_vision.dir/link.d CMakeFiles/producer_vision.dir/src/producer_vision.cpp.o -o producer_vision  -lrt -lpthread

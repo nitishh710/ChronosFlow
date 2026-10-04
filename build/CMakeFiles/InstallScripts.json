@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/nitish/ChronosFlow/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

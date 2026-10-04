@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -Wall -Wextra -pthread -Wl,--dependency-file=CMakeFiles/consumer_llm.dir/link.d CMakeFiles/consumer_llm.dir/src/consumer_llm.cpp.o -o consumer_llm  -lrt -lpthread
